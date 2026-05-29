@@ -1,1 +1,1 @@
-# Simple-Synchronous-FIFO-CPP-Based-Verification-With-Verilator
+# Synchronous-FIFO-CPP-Based-Verification-With-Verilator
